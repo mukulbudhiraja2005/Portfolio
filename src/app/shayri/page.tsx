@@ -31,7 +31,7 @@ Lgta h chand dharti pr khud aya h.. 🌙`,
 
 `Bas gayi hai tu dil mein... ab kisi aur ke liye jagah khaali na ho 😃  
 Paas rahe tu mere... aur kisi cheez ki chahat na ho 🥰  
-Kaash kho jaayein hum... aur safar kabhi khatam na ho…☺️`,
+Kaash kho jaayein hum kisi galiyon ke safar ... aur safar kabhi khatam na ho…☺️`,
 
 `Umeede mt lgana mujse.. fitoor h mera...  
 M umeede todta chla jaunga...  
@@ -43,9 +43,12 @@ taki tujhse judne ka mauka mil sake…😃
 Lakhoñ ki bheed me bhi  
 meri nazar sirf tujhe hi ishq kar sake…❤️`,
 
-`Dila saaf h mera..ye kbhi bhul mt jana 🤗  
-Pass rhna mere..kbhi muje chodh kr mt jana 😊  
-Udaas hu kbhi m ..to bss tum muskura dena 😄`,
+`Dila saaf h mera..ye kbhi bhul mt jana🤗
+
+Pass rhna mere..kbhi muje chodh kr mt jana.😊.
+Udaas hu kbhi m ..to bss tum mere aage thoda muskra .jana..😄
+
+Aur gussa krdu m kbhi ..to please  muje ulta dant dena..bss kbhi dur kr na jana😃`,
 
 `Kabhi tu zyada badi... kabhi bacchi si lagti hai 😊  
 Kabhi sabse achhi... kabhi sirf meri lagti hai 🥰  
@@ -61,24 +64,34 @@ Bas roz teri ek jhalak mil jaaye 🥰
 Or kya hi chahiye meri raat ko...  
 Bas tujhse thodi baate ho jaaye 😅`,
 
-`Na jaane mujhse zamaana kya chahta hai…  
-Dil bas tere khayalon mein doob jaana chahta hai… 💫`,
+`Na jaane mujhse zamaana kya chahta hai…
+Har pal bas tere khayalon mein doob jaana chahta hai…
+Na jaane kya jhalakta hai tere chehre se…
+Ke apna sab kuch chhod kar,
+Dil sirf tera saath nibhaana chahta hai… 💫`,
 
-`Sach btau to tum chand si lgti ho..🥰  
-Zra meri aankhon se pucho na...  
-Bhout hi lajwab lgti ho ❤️`,
+`Sch btau to tum khubsurat jaise chand si lgti ho..🥰
+Ye nadan chere or chote baalo me pyari bhaisaab lgti ho.. 😍
+Ye kanch ke tukde kya batayenge tumhari khubsurti ko...🥺
+Zra meri aankhon se pucho na...
+Bhout hi lazbab lgti ho ❤️`,
 
-`Mere dil ki kitaab me tuje pehla panna bana betha 😊  
-Har jagah bas tujhe yaad karta rhta hu ❤️`,
+`Meri Dil ki kitaab me tuje sbse phela pnna bna betha...😊
 
-`Hr kisi se dosti hum kiya nhi krte 💓  
-Ek hi dil h mera hr kisi ko diya nhi krte 💞`,
+Ghr hu ya hostel ya phr khi or..
+Mere mn sirf tuje yaad krta rhta 😅
 
-`Mangi thi rab se dua.. mila dena kisi ache se 💓  
-Rab ne tuje de diya muje... aur bola sambhal ke rakhna 🥰`,
+Dosti hi h pta h dono ko.. phr bhi hr khaab me tera chehra aja betha🥰..
 
-`Kaise btau kitni yaad aati h tumhari ❤️  
-Bss yhi rhta h kb hogi mulakat hamari 🥰`,
+Pta nhi konsa khubsurat lamha tha vo jb m tujse dosti kr betha ❤️`,
+
+`Hr kisi se dosti hum kiya nhi krte 💓
+Ek hi dil h mera hr kisi ko diya nhi krte 💞🥰
+Pyar m sirf tujse krta hu smj aayi 💞..
+Vrna dusro ke to hum message bhi seen nhi krte 💞💞`,
+
+`Mangi thi rab se dua..mila dena kisi ache se 💓
+Rab ne tuje de diye muje..or kha smbhal ke rhkiyo... teri h abse  🥰`,
 ];
 
 const likesStorageKey = "shayari-likes";
